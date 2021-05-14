@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa14c97a-b84c-4086-b9a6-c845315e1ff2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_B1_ThuchanhRefactoringDoitenBienvaTachHang/src/java-cleancode-refactoring-renaming/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_B1_ThuchanhRefactoringDoitenBienvaTachHang/src/java-cleancode-refactoring-renaming/test/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620914936600</updated>
-      <workItem from="1620914940063" duration="4348000" />
+      <workItem from="1620914940063" duration="4801000" />
     </task>
     <servers />
   </component>
